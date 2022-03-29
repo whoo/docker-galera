@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:11
 MAINTAINER Dominique DERRIER <derrierdo@gmail.com>
 ENV DEBIAN_FRONTEND noninteractive
 

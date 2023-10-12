@@ -1,4 +1,4 @@
-FROM debian:11.2
+FROM debian:bullseye-20231009
 MAINTAINER Dominique DERRIER <derrierdo@gmail.com>
 ENV DEBIAN_FRONTEND noninteractive
 
